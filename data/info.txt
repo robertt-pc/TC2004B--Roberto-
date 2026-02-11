@@ -1,0 +1,20 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: [Roberto]
+Matrícula: A01286834
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+[Es la primera materia de mi carrera y me entusiasma mucho finalmente entrar a la ciencia de datos.]
+
+¿Qué espero aprender?
+[Estructuras básicas, conceptos importantes e implementaciones laborales]
+
+Herramientas que ya conozco:
+- [Github]
+- [Google Collab]
+
+Herramientas nuevas para mí:
+- [Programar estructuras desde la terminal]
+- [Git]
